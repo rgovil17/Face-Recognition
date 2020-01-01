@@ -1,2 +1,2 @@
 # Face-Recognition
-Real Time Face Recognition using KNN
+Real Time Face Recognition using KNN and OpenCV
